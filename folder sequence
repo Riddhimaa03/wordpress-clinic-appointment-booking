@@ -1,0 +1,19 @@
+wp-clinic-appointment-booking/
+│
+├── wp-clinic-appointment-booking.php
+├── README.md
+│
+├── includes/
+│   ├── create-table.php
+│   ├── shortcode-form.php
+│   └── admin-page.php
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── booking.js
+│
+└── screenshots/
+    ├── booking-form.png
+    └── admin-panel.png
