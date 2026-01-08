@@ -1,0 +1,15 @@
+.wcab-form {
+    max-width: 400px;
+}
+.wcab-form input,
+.wcab-form textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+.wcab-form button {
+    background: #2271b1;
+    color: white;
+    border: none;
+    padding: 10px;
+}
