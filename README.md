@@ -29,5 +29,4 @@ The project demonstrates core WordPress plugin development concepts such as cust
 
 ---
 
-## Project Structure
 
