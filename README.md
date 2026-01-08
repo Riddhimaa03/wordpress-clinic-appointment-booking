@@ -1,22 +1,33 @@
-# wordpress-clinic-appointment-booking
+# WordPress Clinic Appointment Booking Plugin
 
-A WordPress plugin that allows patients to book clinic appointments
-and allows admin to manage them from dashboard.
+## About the Project
 
-## Features
-- Appointment booking form
-- Admin appointment list
-- Custom database table
-- Shortcode support
+The **WordPress Clinic Appointment Booking Plugin** is a custom WordPress plugin developed to allow patients to book clinic appointments through a frontend form while enabling administrators to manage all appointments from the WordPress dashboard.
 
-## Installation
-1. Upload plugin folder to `/wp-content/plugins/`
-2. Activate plugin
-3. Add shortcode `[clinic_appointment_form]` to any page
+The project demonstrates core WordPress plugin development concepts such as custom database tables, shortcodes, admin menus, and secure form handling using WordPress best practices.
 
-## Screenshots
-1. Appointment Booking Form
-2. Admin Appointments Panel
+---
 
-## Author
-Riddhima Srivastava
+## Key Features
+
+- Frontend appointment booking form
+- Admin panel to view booked appointments
+- Custom database table for appointment data
+- Shortcode-based integration
+- Secure input sanitization
+- Lightweight and easy to extend
+
+---
+
+## Technologies Used
+
+- WordPress
+- PHP
+- MySQL
+- HTML, CSS
+- JavaScript (basic)
+
+---
+
+## Project Structure
+
